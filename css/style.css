@@ -1,0 +1,19 @@
+.block{
+  width: 35%;
+  height: 730px;
+  background-color: white;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  margin:0 auto;
+  font-size: 102%;
+  line-height: 1.5;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+  padding-top: 20px;
+
+
+}
+body{
+  background: #E6E6E6;
+}
+ul li {text-align: left}
